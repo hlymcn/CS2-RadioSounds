@@ -30,6 +30,9 @@
 3. Start the server once to generate config
 4. Edit config and restart the server
 
+> [!IMPORTANT]
+> This plugin does not include any sound resources. Please upload your own sounds.
+
 ## Configuration
 
 Config path:
@@ -105,6 +108,9 @@ Custom commands are fully configurable in `CustomCommands`.
 2. 解压至 `game/csgo/addons/counterstrikesharp/plugins`
 3. 启动服务器生成配置
 4. 修改配置并重启服务器
+
+> [!IMPORTANT]
+> 本插件不包含任何音效资源，请自行上传。
 
 ## 配置
 
